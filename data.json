@@ -1,0 +1,205 @@
+{
+  "categories": [
+    { "id": "1", "category_name": "Fruit Tree" },
+    { "id": "2", "category_name": "Flowering Tree" },
+    { "id": "3", "category_name": "Shade Tree" },
+    { "id": "4", "category_name": "Medicinal Tree" },
+    { "id": "5", "category_name": "Timber Tree" },
+    { "id": "6", "category_name": "Evergreen Tree" },
+    { "id": "7", "category_name": "Ornamental Plant" },
+    { "id": "8", "category_name": "Bamboo" },
+    { "id": "9", "category_name": "Climber" },
+    { "id": "10", "category_name": "Aquatic Plant" }
+  ],
+  "plants": [
+    {
+      "id": "p1",
+      "name": "Mango Tree",
+      "description": "A tropical fruit tree known for its sweet, juicy mangoes. Grows tall and provides great shade.",
+      "image": "https://images.unsplash.com/photo-1590502160462-58b41354f588?w=400&auto=format&fit=crop",
+      "category": "Fruit Tree",
+      "category_id": "1",
+      "price": 500
+    },
+    {
+      "id": "p2",
+      "name": "Jackfruit Tree",
+      "description": "The largest tree-borne fruit in the world. Nutritious and grows well in tropical climates.",
+      "image": "https://images.unsplash.com/photo-1629208619657-b31f6e47a575?w=400&auto=format&fit=crop",
+      "category": "Fruit Tree",
+      "category_id": "1",
+      "price": 450
+    },
+    {
+      "id": "p3",
+      "name": "Guava Tree",
+      "description": "Fast-growing fruit tree with delicious vitamin-C rich fruits. Great for home gardens.",
+      "image": "https://images.unsplash.com/photo-1536511132770-e5058c7e8c46?w=400&auto=format&fit=crop",
+      "category": "Fruit Tree",
+      "category_id": "1",
+      "price": 300
+    },
+    {
+      "id": "p4",
+      "name": "Royal Poinciana",
+      "description": "A stunning flowering tree with vibrant red-orange blossoms. One of the most beautiful trees in the world.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&auto=format&fit=crop",
+      "category": "Flowering Tree",
+      "category_id": "2",
+      "price": 650
+    },
+    {
+      "id": "p5",
+      "name": "Cherry Blossom",
+      "description": "Iconic pink flowering tree that blooms in spring. Symbol of beauty and renewal.",
+      "image": "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=400&auto=format&fit=crop",
+      "category": "Flowering Tree",
+      "category_id": "2",
+      "price": 800
+    },
+    {
+      "id": "p6",
+      "name": "Rain Tree",
+      "description": "A large, wide-canopied shade tree. Perfect for parks and roadsides with its umbrella-like shape.",
+      "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=400&auto=format&fit=crop",
+      "category": "Shade Tree",
+      "category_id": "3",
+      "price": 550
+    },
+    {
+      "id": "p7",
+      "name": "Banyan Tree",
+      "description": "A majestic tree with aerial roots forming multiple trunks. Provides enormous shade and is sacred in many cultures.",
+      "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&auto=format&fit=crop",
+      "category": "Shade Tree",
+      "category_id": "3",
+      "price": 700
+    },
+    {
+      "id": "p8",
+      "name": "Neem Tree",
+      "description": "A medicinal powerhouse. Every part of the neem tree has healing properties used in traditional medicine.",
+      "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=400&auto=format&fit=crop",
+      "category": "Medicinal Tree",
+      "category_id": "4",
+      "price": 350
+    },
+    {
+      "id": "p9",
+      "name": "Tulsi Plant",
+      "description": "Holy basil with powerful antibacterial and medicinal properties. A must-have in every home.",
+      "image": "https://images.unsplash.com/photo-1591857177580-dc82b9ac4e1e?w=400&auto=format&fit=crop",
+      "category": "Medicinal Tree",
+      "category_id": "4",
+      "price": 150
+    },
+    {
+      "id": "p10",
+      "name": "Teak Tree",
+      "description": "A premium timber tree producing highly durable hardwood. Valued worldwide for furniture and construction.",
+      "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=400&auto=format&fit=crop",
+      "category": "Timber Tree",
+      "category_id": "5",
+      "price": 900
+    },
+    {
+      "id": "p11",
+      "name": "Mahogany Tree",
+      "description": "A prized timber tree with rich reddish-brown wood. Highly sought after for fine furniture.",
+      "image": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=400&auto=format&fit=crop",
+      "category": "Timber Tree",
+      "category_id": "5",
+      "price": 1000
+    },
+    {
+      "id": "p12",
+      "name": "Pine Tree",
+      "description": "An evergreen conifer that stays lush green year-round. Great for reforestation and carbon capture.",
+      "image": "https://images.unsplash.com/photo-1482275548304-a58859dc31b7?w=400&auto=format&fit=crop",
+      "category": "Evergreen Tree",
+      "category_id": "6",
+      "price": 400
+    },
+    {
+      "id": "p13",
+      "name": "Ficus Tree",
+      "description": "A popular evergreen tree with glossy leaves. Works beautifully both indoors and outdoors.",
+      "image": "https://images.unsplash.com/photo-1463936575829-25148e1db1b8?w=400&auto=format&fit=crop",
+      "category": "Evergreen Tree",
+      "category_id": "6",
+      "price": 380
+    },
+    {
+      "id": "p14",
+      "name": "Bougainvillea",
+      "description": "A vibrant ornamental plant with colorful bracts in pink, red, and purple. Stunning in any garden.",
+      "image": "https://images.unsplash.com/photo-1597848212624-a19eb35e2651?w=400&auto=format&fit=crop",
+      "category": "Ornamental Plant",
+      "category_id": "7",
+      "price": 250
+    },
+    {
+      "id": "p15",
+      "name": "Croton Plant",
+      "description": "A bold ornamental plant with multicolored leaves in red, yellow, and orange. Perfect for decorative landscapes.",
+      "image": "https://images.unsplash.com/photo-1512428813834-c702c7702b78?w=400&auto=format&fit=crop",
+      "category": "Ornamental Plant",
+      "category_id": "7",
+      "price": 200
+    },
+    {
+      "id": "p16",
+      "name": "Golden Bamboo",
+      "description": "A fast-growing bamboo with striking golden-yellow canes. Ideal for privacy screens and tropical gardens.",
+      "image": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=400&auto=format&fit=crop",
+      "category": "Bamboo",
+      "category_id": "8",
+      "price": 320
+    },
+    {
+      "id": "p17",
+      "name": "Giant Bamboo",
+      "description": "The world's fastest growing plant. Excellent for carbon sequestration, construction, and erosion control.",
+      "image": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=400&auto=format&fit=crop",
+      "category": "Bamboo",
+      "category_id": "8",
+      "price": 280
+    },
+    {
+      "id": "p18",
+      "name": "Jasmine Climber",
+      "description": "A fragrant climbing plant with beautiful white flowers. Fills your garden with a sweet scent.",
+      "image": "https://images.unsplash.com/photo-1567748157439-651aca2ff064?w=400&auto=format&fit=crop",
+      "category": "Climber",
+      "category_id": "9",
+      "price": 180
+    },
+    {
+      "id": "p19",
+      "name": "Passion Flower",
+      "description": "An exotic climbing vine with stunning intricate flowers and edible passion fruit.",
+      "image": "https://images.unsplash.com/photo-1455659817273-f96807779a8a?w=400&auto=format&fit=crop",
+      "category": "Climber",
+      "category_id": "9",
+      "price": 220
+    },
+    {
+      "id": "p20",
+      "name": "Lotus Plant",
+      "description": "A sacred aquatic plant with breathtaking pink and white flowers. Symbolizes purity and enlightenment.",
+      "image": "https://images.unsplash.com/photo-1474557157379-8aa74a6ef541?w=400&auto=format&fit=crop",
+      "category": "Aquatic Plant",
+      "category_id": "10",
+      "price": 260
+    },
+    {
+      "id": "p21",
+      "name": "Water Lily",
+      "description": "Elegant floating aquatic plant with vibrant blooms. Perfect for ponds and water gardens.",
+      "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400&auto=format&fit=crop",
+      "category": "Aquatic Plant",
+      "category_id": "10",
+      "price": 230
+    }
+  ]
+}

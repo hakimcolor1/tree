@@ -192,14 +192,14 @@
       "category_id": "10",
       "price": 260
     },
-    {
-      "id": "p21",
-      "name": "Water Lily",
-      "description": "Elegant floating aquatic plant with vibrant blooms. Perfect for ponds and water gardens.",
-      "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400&auto=format&fit=crop",
-      "category": "Aquatic Plant",
-      "category_id": "10",
-      "price": 230
-    }
+    // {
+    //   "id": "p21",
+    //   "name": "Water Lily",
+    //   "description": "Elegant floating aquatic plant with vibrant blooms. Perfect for ponds and water gardens.",
+    //   "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400&auto=format&fit=crop",
+    //   "category": "Aquatic Plant",
+    //   "category_id": "10",
+    //   "price": 230
+    // }
   ]
 }

@@ -8,7 +8,7 @@ const cartContainer = document.getElementById('items');
 const totalPriceEl = document.getElementById('total-price');
 const spinner = document.getElementById('spinner');
 const hamburger = document.getElementById('hamburger');
-// const categoriesEl = document.getElementById('categories');
+const categoriesEl = document.getElementById('categories');
 
 let allPlants = [];
 

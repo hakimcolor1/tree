@@ -4,11 +4,11 @@ const allTreesBtn = document.getElementById('all-trees');
 const modal = document.getElementById('tree-modal');
 const modalContent = document.getElementById('modal-content');
 const modalClose = document.getElementById('modal-close');
-const cartContainer = document.getElementById('items');
+// const cartContainer = document.getElementById('items');
 const totalPriceEl = document.getElementById('total-price');
 const spinner = document.getElementById('spinner');
 const hamburger = document.getElementById('hamburger');
-const categoriesEl = document.getElementById('categories');
+// const categoriesEl = document.getElementById('categories');
 
 let allPlants = [];
 
